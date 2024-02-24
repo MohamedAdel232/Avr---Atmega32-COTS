@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "port_register.h": "c",
+        "bit_math.h": "c",
+        "exti_interface.h": "c",
+        "exti_register.h": "c",
+        "exti_private.h": "c",
+        "dio_config.h": "c",
+        "exti_config.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
